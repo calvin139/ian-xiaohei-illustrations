@@ -20,6 +20,9 @@ description: 生成 Ian 风格的中文正文配图。用于用户要求为中�
 - `references/composition-patterns.md`：结构类型、原创隐喻方法和反复刻规则。
 - `references/prompt-template.md`：单张生图提示词模板。
 - `references/qa-checklist.md`：生成后检查和迭代规则。
+- `references/chibi-character-style.md`：Chibi 角色头像设计指南（柔和水彩感风格）。
+- `references/chibi-character-prompt.md`：Chibi 角色头像生图提示词模板。
+- `assets/chibi-character-generation-guide.md`：Chibi 角色生成和保存指南。
 - `assets/examples/`：只作低频视觉校准，不进入默认生成路径。不要照抄这些案例的构图、物件或标注。
 
 ## 工作流
